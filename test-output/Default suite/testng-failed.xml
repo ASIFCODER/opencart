@@ -6,7 +6,6 @@
       <class name="testCases.TC_RF_001">
         <methods>
           <include name="validating_With_Mandatry_Field"/>
-          <include name="beforeMethod"/>
         </methods>
       </class> <!-- testCases.TC_RF_001 -->
     </classes>
